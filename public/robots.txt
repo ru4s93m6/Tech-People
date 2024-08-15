@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ru4s93m6.github.io/Tech-People/sitemap-index.xml
